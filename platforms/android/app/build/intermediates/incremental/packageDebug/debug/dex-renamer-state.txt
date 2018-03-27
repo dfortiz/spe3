@@ -1,4 +1,4 @@
-#Tue Mar 27 11:53:06 BOT 2018
+#Tue Mar 27 17:04:17 BOT 2018
 base.0=F\:\\frank\\SPE\\PhoneGap_app\\spe3\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
 file.0=F\:\\frank\\SPE\\PhoneGap_app\\spe3\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

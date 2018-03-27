@@ -29,12 +29,12 @@
     <feature name="FileTransfer">
         <param name="android-package" value="org.apache.cordova.filetransfer.FileTransfer" />
     </feature>
-    <name>spe3</name>
+    <name>SPE Bolivian Section</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        SPE Bolivian Section.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="dfortiz@gmail.com" href="http://www.protech.com">
+        SPE Bolivian Section Team
     </author>
     <content src="index.html" />
     <access origin="*" />
